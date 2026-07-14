@@ -50,16 +50,16 @@
 
 <div align="left">
 
-- **[Hult Prize at UNI Landing Page](https://github.com/jeannrf/Hult-Prize-at-UNI)** — Plataforma oficial de Hult Prize at UNI, donde podrás conocer todo acerca del concurso de emprendimiento más grande del mundo, llevado a cabo en la UNI.
-- **[ERP-Master](https://github.com/devrenato56/erp-master)** — Plataforma de aprendizaje continuo y capacitación para nuevos usuarios en ERP's.
-- **[UniVia](https://github.com/leaduni/univia-project)** — Plataforma de aprendizaje autodidacta más grande de la UNI.
-- **[CEE Página oficial](https://github.com/santiago2706/CEE)** — Plataforma oficial de inscripción y compra de cursos del Centro de Especialización Ejecutiva de la UNI (CEE).
+- **[Hult Prize at UNI Landing Page](https://github.com/jeannrf/Hult-Prize-at-UNI)** — Hult Prize at UNI's official platform. Here, you can get all the info about the world's biggest entrepreneurship competition.
+- **[ERP-Master](https://github.com/devrenato56/erp-master)** — Learning platform about ERP systems. Here, you can capacitate with all the neccesary knowledge about ERP's.
+- **[UniVia](https://github.com/leaduni/univia-project)** — UNI's biggest self-learning platform.
+- **[CEE Página oficial](https://github.com/santiago2706/CEE)** — CEE's official platform for buying and inscription in their courses.
 
 </div>
 
 ---
 
-## Conectemos
+## Let's connect!
 
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://www.instagram.com/renatooo.gg/) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/renato-gutierrez/)
 
