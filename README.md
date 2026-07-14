@@ -33,7 +33,7 @@
 
 ## Tech Stack
 
-<img src="https://skillicons.dev/icons?i=cpp,java,python,ts,js,css,nodejs,nestjs,fastapi,spring,vercel,render,react,nextjs,astro,pnpm,py,postgres,supabase,figma,git,github,postman,langchain&theme=dark&perline=13" />
+<img src="https://go-skill-icons.vercel.app/api/icons?i=cpp,java,python,ts,js,css,nodejs,nestjs,fastapi,spring,vercel,render,react,nextjs,astro,pnpm,py,postgres,supabase,figma,git,github,postman,langchain&theme=dark&perline=13" />
 
 ---
 
