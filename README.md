@@ -16,17 +16,16 @@
 
 **A bit about me:**
 
-🚀 Campus Director of **Hult Prize at UNI** — the world's largest entrepreneurship competition, hosted at UNI
-<br/>
-📚 Member of the Academic Excellence area at **LEAD UNI**, where we built **UniVia**, UNI's largest self-directed learning platform
-<br/>
-🔬 Member of the R&D and Innovation area at **CCAT**, where my team developed the website for UNI's Executive Specialization Center
-<br/>
-🛠️ Former IT Director at **Tinkuy Labs**, building the event's website
-<br/>
-📈 Project Manager for the **Supplymentum UNI** landing page
-<br/>
-🏆 Winner of the **Tech Hackathon** at FIIS - UNI (2025)
+<div align="left">
+
+- 🚀 Campus Director of **Hult Prize at UNI** — the world's largest entrepreneurship competition, hosted at UNI
+- 📚 Member of the Academic Excellence area at **LEAD UNI**, where we built **UniVia**, UNI's largest self-directed learning platform
+- 🔬 Member of the R&D and Innovation area at **CCAT**, where my team developed the website for UNI's Executive Specialization Center
+- 🛠️ Former IT Director at **Tinkuy Labs**, building the event's website
+- 📈 Project Manager for the **Supplymentum UNI** landing page
+- 🏆 Winner of the **Tech Hackathon** at FIIS - UNI (2025)
+
+</div>
 
 📫 Feel free to reach out for tech initiatives that can make a real impact!
 
@@ -49,21 +48,14 @@
 
 ## 🚀 Featured Projects
 
-**[Hult Prize at UNI Landing Page](https://github.com/jeannrf/Hult-Prize-at-UNI)**
-<br/>
-Plataforma oficial de Hult Prize at UNI, donde podrás conocer todo acerca del concurso de emprendimiento más grande del mundo, llevado a cabo en la UNI.
+<div align="left">
 
-**[ERP-Master](https://github.com/devrenato56/erp-master)**
-<br/>
-Plataforma de aprendizaje continuo y capacitación para nuevos usuarios en ERP's.
+- **[Hult Prize at UNI Landing Page](https://github.com/jeannrf/Hult-Prize-at-UNI)** — Plataforma oficial de Hult Prize at UNI, donde podrás conocer todo acerca del concurso de emprendimiento más grande del mundo, llevado a cabo en la UNI.
+- **[ERP-Master](https://github.com/devrenato56/erp-master)** — Plataforma de aprendizaje continuo y capacitación para nuevos usuarios en ERP's.
+- **[UniVia](https://github.com/leaduni/univia-project)** — Plataforma de aprendizaje autodidacta más grande de la UNI.
+- **[CEE Página oficial](https://github.com/santiago2706/CEE)** — Plataforma oficial de inscripción y compra de cursos del Centro de Especialización Ejecutiva de la UNI (CEE).
 
-**[UniVia](https://github.com/leaduni/univia-project)**
-<br/>
-Plataforma de aprendizaje autodidacta más grande de la UNI.
-
-**[CEE Página oficial](https://github.com/santiago2706/CEE)**
-<br/>
-Plataforma oficial de inscripción y compra de cursos del Centro de Especialización Ejecutiva de la UNI (CEE).
+</div>
 
 ---
 
@@ -76,4 +68,5 @@ Plataforma oficial de inscripción y compra de cursos del Centro de Especializac
 [![](https://komarev.com/ghpvc/?username=devrenato56&label=Profile+Views&color=6366F1&style=flat)](https://visitcount.itsvg.in)
 
 </div>
+
 
