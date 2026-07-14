@@ -31,46 +31,31 @@
 
 <div align="center">
 
-# 💻 Tech Stack
+## Tech Stack
 
-**Languages**
-<br/>
-<img src="https://skillicons.dev/icons?i=cpp,java,python,ts,js,css&theme=dark" />
-
-**Backend & Cloud**
-<br/>
-<img src="https://skillicons.dev/icons?i=nodejs,nestjs,fastapi,spring,aws,vercel,render&theme=dark" />
-
-**Frontend**
-<br/>
-<img src="https://skillicons.dev/icons?i=react,nextjs,astro,pnpm&theme=dark" />
-
-**Data & ML**
-<br/>
-<img src="https://skillicons.dev/icons?i=py,pytorch,sklearn&theme=dark" />
-
-**Databases**
-<br/>
-<img src="https://skillicons.dev/icons?i=postgres,supabase,mysql&theme=dark" />
-
-**Tools & Design**
-<br/>
-<img src="https://skillicons.dev/icons?i=figma,git,github,postman&theme=dark" />
+<img src="https://skillicons.dev/icons?i=cpp,java,python,ts,js,css,nodejs,nestjs,fastapi,spring,aws,vercel,render,react,nextjs,astro,pnpm,py,pytorch,sklearn,postgres,supabase,mysql,figma,git,github,postman&theme=dark&perline=13" />
 
 </div>
 
 <div align="center">
 
-# 📊 GitHub Stats
+## Statistics
 
-<img src="https://github-readme-stats.shion.dev/api?username=devrenato56&hide_border=true&include_all_commits=true&count_private=false&border_radius=10&title_color=6366F1&icon_color=6366F1&text_color=C9D1D9&bg_color=00000000&hide_rank=true" width="48%" />
-<img src="https://github-readme-stats.shion.dev/api/top-langs/?username=devrenato56&hide_border=true&include_all_commits=true&count_private=false&layout=compact&border_radius=10&title_color=6366F1&text_color=C9D1D9&bg_color=00000000&langs_count=8" width="48%" />
+<img src="https://github-readme-stats.shion.dev/api?username=devrenato56&hide_border=true&include_all_commits=true&count_private=false&border_radius=10&title_color=2DD4BF&icon_color=2DD4BF&text_color=C9D1D9&bg_color=00000000&hide_rank=false&rank_icon=percentile" width="48%" />
+<img src="https://github-readme-stats.shion.dev/api/top-langs/?username=devrenato56&hide_border=true&include_all_commits=true&count_private=false&layout=compact&border_radius=10&title_color=2DD4BF&text_color=C9D1D9&bg_color=00000000&langs_count=8" width="48%" />
 
-<img src="https://streak-stats.demolab.com/?user=devrenato56&hide_border=true&border_radius=10&background=00000000&ring=6366F1&fire=6366F1&currStreakLabel=6366F1&sideLabels=C9D1D9&currStreakNum=C9D1D9&sideNums=C9D1D9&dates=8B8B9E" width="68%" />
+<img src="https://streak-stats.demolab.com/?user=devrenato56&hide_border=true&border_radius=10&background=00000000&ring=2DD4BF&fire=2DD4BF&currStreakLabel=2DD4BF&sideLabels=C9D1D9&currStreakNum=C9D1D9&sideNums=C9D1D9&dates=8B8B9E" width="68%" />
 
 </div>
 
 ---
+
+<div align="center">
+
+[![](https://komarev.com/ghpvc/?username=devrenato56&label=Profile+Views&color=6366F1&style=flat)](https://visitcount.itsvg.in)
+
+</div>
+
 
 <div align="center">
 
