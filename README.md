@@ -5,7 +5,7 @@
 **Systems Engineering Student at UNI | Top 5% of my class | Tech Leader**
 
 <a href="https://git.io/typing-svg">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=6366F1&center=true&vCenter=true&width=440&lines=Software+Engineer+Student;Tech+%26+Innovation+Enthusiast;Building+tools+that+solve+real+problems" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=6366F1&center=true&vCenter=true&width=440&lines=Systems+Engineer+Student;Tech+%26+Innovation+Enthusiast;Building+tools+that+solve+real+problems" alt="Typing SVG" />
 </a>
 
 </div>
